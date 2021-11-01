@@ -3,7 +3,7 @@
 ## Especificações
 - Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz
 - Intel HD Graphics 620
-- 16 GB RAM
+- 16 GB RAM 2133 MHz DDR4
 - 512 SSD
 - Audio Realtek ALC256
 - Placa de Rede RTL811/8168/8411
