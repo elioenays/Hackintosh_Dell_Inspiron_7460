@@ -11,7 +11,7 @@ Toda a instalação foi feita seguindo a documentação do OpenCore disponível 
 - Audio Realtek ALC256
 - Placa de Rede RTL811/8168/8411
 ### Funcionando
-- Vídeo Integrgado
+- Vídeo Integrado
 - Audio
 - Rede Cabeada
 - HDMI
